@@ -24,3 +24,7 @@ Will stick element to top/bottom of screen while contained within its parent.
 **Conditional** - You can add fixedstickyactive (optional) attribute to determine if it should be fixed or not
 
     <div fixedsticky="top" fixedstickyactive="true/false">Hello World</div>
+
+**Demo**
+Please check out the git hub for fixed-sticky https://github.com/filamentgroup/fixed-sticky
+Use of this directive can be found here http://plnkr.co/edit/3eNlQP1pwUlfOUSbLcpA?p=preview
