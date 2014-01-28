@@ -1,9 +1,9 @@
 psFixedsticky
 =============
 
-AngularJS Directive for fixedsticky.js
+AngularJS Directive (wrapper) for fixedsticky.js https://github.com/filamentgroup/fixed-sticky
 
-Will stick element to top/bottom of screen while contained within its parent. See fixed-sticky.js below.
+Will stick element to top/bottom of screen while contained within its parent. 
 
 **Requires**
 - JQuery
