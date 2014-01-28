@@ -9,7 +9,7 @@ Will stick element to top/bottom of screen while contained within its parent.
 - AngularJs
 - JQuery
 - fixedsticky.js https://github.com/filamentgroup/fixed-sticky
-
+- fixedsticky.css https://github.com/filamentgroup/fixed-sticky
 
 **Use**
 
